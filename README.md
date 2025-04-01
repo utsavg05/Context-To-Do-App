@@ -13,7 +13,7 @@ A simple React.js project that demonstrates the use of Context API for state man
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/utsavg05/contextTodo.git
+    git clone https://github.com/utsavg05/Context-To-Do-App.git
     ```
 2. Navigate to the project directory:
     ```bash
